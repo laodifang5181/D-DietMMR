@@ -10,3 +10,5 @@ This repository contains code to reproduce the experiments in the paper "D-DietM
 
 /knowledge\_base contains the knowledge base necessary for the experiments.
 
+/MM26_DB.pdf is the appendix.
+
