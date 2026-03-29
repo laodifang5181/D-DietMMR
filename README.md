@@ -1,6 +1,6 @@
-# D-DietMMR: A Multi-Modal Reasoning Benchmark for Disease-Oriented Diet Recommendations in LVLMs
+# D-DietMMR: A Multi-Modal Reasoning Dataset for Disease-Oriented Diet Recommendations in LVLMs
 
-This repository contains code to reproduce the experiments in the paper "D-DietMMR: A Multi-Modal Reasoning Benchmark for Disease-Oriented Diet Recommendations in LVLMs".
+This repository contains code to reproduce the experiments in the paper "D-DietMMR: A Multi-Modal Reasoning Dataset for Disease-Oriented Diet Recommendations in LVLMs".
 
 # folders and files
 
@@ -10,5 +10,5 @@ This repository contains code to reproduce the experiments in the paper "D-DietM
 
 /knowledge\_base contains the knowledge base necessary for the experiments.
 
-/MM26_DB.pdf is the appendix.
+/MM26\_DB.pdf is the appendix.
 
